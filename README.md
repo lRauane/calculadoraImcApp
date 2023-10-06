@@ -26,20 +26,6 @@ A Calculadora de Índice de Massa Corporal (IMC) é uma funcionalidade deste pro
 O Índice de Massa Corporal (IMC) é uma medida que utiliza a altura e o peso de uma pessoa para determinar se ela está com um peso saudável, abaixo do peso, com sobrepeso ou obesa. É uma ferramenta útil para avaliar a saúde relacionada ao peso.
 
 
-```bash
-
-# Clone este repositório
-$ git clone https://github.com/lRauane/dropmail.git
-
-# Instale as dependências
-$ npm install
-
-# Execute a aplicação em modo de desenvolvimento
-$ npm run dev
-
-```
-
-
 ## 🛠 Tecnologias e ferramentas <a name="tecnologias"></a>
 
 -   **[Flutter](https://flutter.dev/)**

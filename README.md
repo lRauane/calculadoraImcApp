@@ -1,19 +1,80 @@
-# calculadoraIMC
+# Calculadora de IMC
+<h1 align="center">
+  <img src=".github/Tela inicial - IMC.jpg"/>
+  <img src=".github/Modal - IMC.jpg"/>
+  <img src=".github/ListView - IMC.jpg"/>
+</h1>
 
-A new Flutter project created with FlutLab - https://flutlab.io
+<h4 align="center">
+✅Concluído!
+</h4>
 
-## Getting Started
 
-A few resources to get you started if this is your first Flutter project:
+#### **Sobre o projeto** <a name="sobre-o-projeto"></a>
+## 💻 Calculadora IMC
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+A Calculadora de Índice de Massa Corporal (IMC) é uma funcionalidade deste projeto. Ela permite que os usuários calculem seu IMC com base na altura e peso fornecidos.
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### ⚙️ Funcionalidades da Calculadora IMC
 
-## Getting Started: FlutLab - Flutter Online IDE
+- [x] Calcular o IMC com base na altura e peso inseridos pelo usuário.
+- [x] Exibir o resultado do IMC e uma classificação de acordo com os intervalos de IMC.
+- [x] Estilização conforme as diretrizes de design do aplicativo.
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+### ℹ️ Sobre o IMC
+
+O Índice de Massa Corporal (IMC) é uma medida que utiliza a altura e o peso de uma pessoa para determinar se ela está com um peso saudável, abaixo do peso, com sobrepeso ou obesa. É uma ferramenta útil para avaliar a saúde relacionada ao peso.
+
+
+```bash
+
+# Clone este repositório
+$ git clone https://github.com/lRauane/dropmail.git
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run dev
+
+```
+
+
+## 🛠 Tecnologias e ferramentas <a name="tecnologias"></a>
+
+-   **[Flutter](https://flutter.dev/)**
+-   **[Dart](https://dart.dev/)**
+-   **[Material Design](https://m3.material.io/develop/flutter)**
+-   **[Android studio](https://developer.android.com/studio)**
+-   **[Visual Studio Code](https://code.visualstudio.com/)**
+
+> Veja o arquivo  [package.json](https://github.com/lRauane/calculadoraImcApp/blob/main/package.json)
+
+#### **Utilitários** <a name="utilitarios"></a>
+
+-   Fontes:  **[Poppins](https://fonts.google.com/specimen/Archivo?query=poppins)**
+
+
+---
+
+## 💪 Como contribuir no projeto <a name="como-contribuir"></a>
+
+1. Faça um **fork** do projeto.
+2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
+3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
+4. Envie as suas alterações: `git push origin my-feature`
+
+---
+
+## 🦸 Autor <a name="autor">Rauane Lima</a>
+[github](https://github.com/lRauane/)
+|
+[linkedln](https://www.linkedin.com/in/rauanee/)
+
+---
+
+## 📝 Licença e apresentação <a name="licenca"></a>
+
+> video: [Projeto explicado](https://www.loom.com/embed/efc4d4392a1d4bd1ac40d4cf1751dfb3)
+Feito com ❤️ por Rauane Lima 👋🏽 [Entre em contato!](https://www.linkedin.com/in/rauanee/)
+>  This is a challenge by [Coodesh](https://coodesh.com/)

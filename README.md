@@ -10,8 +10,8 @@
 </h4>
 
 
-#### **Sobre o projeto** <a name="sobre-o-projeto"></a>
-## 💻 Calculadora IMC
+## **Sobre o projeto** <a name="sobre-o-projeto"></a>
+### 💻 Calculadora IMC
 
 A Calculadora de Índice de Massa Corporal (IMC) é uma funcionalidade deste projeto. Ela permite que os usuários calculem seu IMC com base na altura e peso fornecidos.
 

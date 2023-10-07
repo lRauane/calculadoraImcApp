@@ -34,7 +34,7 @@ O Índice de Massa Corporal (IMC) é uma medida que utiliza a altura e o peso de
 -   **[Android studio](https://developer.android.com/studio)**
 -   **[Visual Studio Code](https://code.visualstudio.com/)**
 
-> Veja o arquivo  [package.json](https://github.com/lRauane/calculadoraImcApp/blob/main/package.json)
+> Veja o arquivo  [pubspec.yaml](https://github.com/lRauane/calculadoraImcApp/blob/main/pubspec.yaml)
 
 #### **Utilitários** <a name="utilitarios"></a>
 

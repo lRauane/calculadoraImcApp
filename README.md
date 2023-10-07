@@ -57,9 +57,7 @@ O Índice de Massa Corporal (IMC) é uma medida que utiliza a altura e o peso de
 |
 [linkedln](https://www.linkedin.com/in/rauanee/)
 
----
 
-## 📝 Licença e apresentação <a name="licenca"></a>
 
 > video: [Projeto explicado](https://www.loom.com/embed/efc4d4392a1d4bd1ac40d4cf1751dfb3)
 Feito com ❤️ por Rauane Lima 👋🏽 [Entre em contato!](https://www.linkedin.com/in/rauanee/)
